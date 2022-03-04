@@ -1,4 +1,4 @@
-My first application using HTML,CSS and Javascript
+simple landing page using HTML,CSS and Javascript
 
 sections added via ```createSection()``` function
 
